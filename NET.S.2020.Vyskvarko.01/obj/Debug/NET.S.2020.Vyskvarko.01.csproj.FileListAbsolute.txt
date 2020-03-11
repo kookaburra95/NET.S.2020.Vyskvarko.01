@@ -1,0 +1,6 @@
+D:\Project\repos\NET.S.2020.Vyskvarko.01\bin\Debug\NET.S.2020.Vyskvarko.01.exe.config
+D:\Project\repos\NET.S.2020.Vyskvarko.01\bin\Debug\NET.S.2020.Vyskvarko.01.exe
+D:\Project\repos\NET.S.2020.Vyskvarko.01\bin\Debug\NET.S.2020.Vyskvarko.01.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.01\obj\Debug\NET.S.2020.Vyskvarko.01.csprojAssemblyReference.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.01\obj\Debug\NET.S.2020.Vyskvarko.01.exe
+D:\Project\repos\NET.S.2020.Vyskvarko.01\obj\Debug\NET.S.2020.Vyskvarko.01.pdb
